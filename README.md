@@ -32,5 +32,5 @@ Hello_World_Project
 ## Additional Information
 No additional documentation at this time
 
-*The Hello_World_Project was created by @jsrosenberg
+## *The Hello_World_Project was created by @jsrosenberg
 
