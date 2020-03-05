@@ -14,7 +14,7 @@ Practice using GitHub formatting
 ## Running the Program
 Hello_World_Project
 
-***Follow intructions closely**
+***Follow intructions closely***
 
 1. README.md
 2. pgmname1.R
@@ -32,5 +32,5 @@ Hello_World_Project
 ## Additional Information
 No additional documentation at this time
 
-## *The Hello_World_Project was created by @jsrosenberg
+## *The Hello_World_Project was created by @jsrosenberg*
 
