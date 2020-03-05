@@ -8,7 +8,7 @@ I like computers and studying analytics
 ## Hello World Project 
 Hello World Sample
 
-##Project Description
+## Project Description
 Practice using GitHub formatting
 
 ## Running the Program
