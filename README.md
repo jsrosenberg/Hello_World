@@ -20,6 +20,7 @@ Hello_World_Project
 2. pgmname1.R
 3. filename1.csv
 4. examples.html
+5. Now that the boring stuff is done, run the program! :sunglasses:
 
 ## Files Used
 - Did you use any datafiles?
